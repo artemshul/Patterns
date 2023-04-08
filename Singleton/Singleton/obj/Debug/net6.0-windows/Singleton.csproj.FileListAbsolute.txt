@@ -1,0 +1,17 @@
+C:\1a\Колледж\КПЗ\Singleton\Singleton\bin\Debug\net6.0-windows\Singleton.exe
+C:\1a\Колледж\КПЗ\Singleton\Singleton\bin\Debug\net6.0-windows\Singleton.deps.json
+C:\1a\Колледж\КПЗ\Singleton\Singleton\bin\Debug\net6.0-windows\Singleton.runtimeconfig.json
+C:\1a\Колледж\КПЗ\Singleton\Singleton\bin\Debug\net6.0-windows\Singleton.dll
+C:\1a\Колледж\КПЗ\Singleton\Singleton\bin\Debug\net6.0-windows\Singleton.pdb
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\Singleton.csproj.AssemblyReference.cache
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\Singleton.Form1.resources
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\Singleton.csproj.GenerateResource.cache
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\Singleton.AssemblyInfoInputs.cache
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\Singleton.AssemblyInfo.cs
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\Singleton.csproj.CoreCompileInputs.cache
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\Singleton.dll
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\refint\Singleton.dll
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\Singleton.pdb
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\Singleton.genruntimeconfig.cache
+C:\1a\Колледж\КПЗ\Singleton\Singleton\obj\Debug\net6.0-windows\ref\Singleton.dll

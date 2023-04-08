@@ -1,0 +1,4 @@
+08-Apr-23 20:27:53: Artem Shul  launched the application
+08-Apr-23 20:27:53: Artem Shul  Entered age: 18
+08-Apr-23 20:27:53: Artem Shul  Choose gender: Male
+08-Apr-23 20:27:53: Artem Shul  finished registration
