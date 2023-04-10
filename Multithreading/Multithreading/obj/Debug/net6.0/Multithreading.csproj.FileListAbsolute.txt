@@ -1,0 +1,15 @@
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\bin\Debug\net6.0\Multithreading.exe
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\bin\Debug\net6.0\Multithreading.deps.json
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\bin\Debug\net6.0\Multithreading.runtimeconfig.json
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\bin\Debug\net6.0\Multithreading.dll
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\bin\Debug\net6.0\Multithreading.pdb
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.csproj.AssemblyReference.cache
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.AssemblyInfoInputs.cache
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.AssemblyInfo.cs
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.csproj.CoreCompileInputs.cache
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.dll
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\obj\Debug\net6.0\refint\Multithreading.dll
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.pdb
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\obj\Debug\net6.0\Multithreading.genruntimeconfig.cache
+C:\1a\Колледж\КПЗ\Multithreading\Multithreading\obj\Debug\net6.0\ref\Multithreading.dll
