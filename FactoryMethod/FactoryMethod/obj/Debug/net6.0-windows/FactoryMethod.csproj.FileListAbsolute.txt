@@ -1,0 +1,17 @@
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\bin\Debug\net6.0-windows\FactoryMethod.exe
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\bin\Debug\net6.0-windows\FactoryMethod.deps.json
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\bin\Debug\net6.0-windows\FactoryMethod.runtimeconfig.json
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\bin\Debug\net6.0-windows\FactoryMethod.dll
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\bin\Debug\net6.0-windows\FactoryMethod.pdb
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\FactoryMethod.csproj.AssemblyReference.cache
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\FactoryMethod.Form1.resources
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\FactoryMethod.csproj.GenerateResource.cache
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\FactoryMethod.AssemblyInfoInputs.cache
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\FactoryMethod.AssemblyInfo.cs
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\FactoryMethod.dll
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\refint\FactoryMethod.dll
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\FactoryMethod.pdb
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\FactoryMethod.genruntimeconfig.cache
+C:\1a\Колледж\КПЗ\FactoryMethod\FactoryMethod\obj\Debug\net6.0-windows\ref\FactoryMethod.dll
