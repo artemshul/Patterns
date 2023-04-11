@@ -1,0 +1,17 @@
+C:\1a\Колледж\КПЗ\Builder\Builder\bin\Debug\net6.0-windows\Builder.exe
+C:\1a\Колледж\КПЗ\Builder\Builder\bin\Debug\net6.0-windows\Builder.deps.json
+C:\1a\Колледж\КПЗ\Builder\Builder\bin\Debug\net6.0-windows\Builder.runtimeconfig.json
+C:\1a\Колледж\КПЗ\Builder\Builder\bin\Debug\net6.0-windows\Builder.dll
+C:\1a\Колледж\КПЗ\Builder\Builder\bin\Debug\net6.0-windows\Builder.pdb
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\Builder.csproj.AssemblyReference.cache
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\Builder.Form1.resources
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\Builder.csproj.GenerateResource.cache
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\Builder.AssemblyInfoInputs.cache
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\Builder.AssemblyInfo.cs
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\Builder.csproj.CoreCompileInputs.cache
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\Builder.dll
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\refint\Builder.dll
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\Builder.pdb
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\Builder.genruntimeconfig.cache
+C:\1a\Колледж\КПЗ\Builder\Builder\obj\Debug\net6.0-windows\ref\Builder.dll
